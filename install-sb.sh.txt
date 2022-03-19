@@ -14,5 +14,3 @@ else
 	wget raw.githubusercontent.com/Sup3r-Us3r/scripts/master/fb-brute.pl
 	cd ..
 fi
-
-
